@@ -151,11 +151,143 @@ Developed and performed testing procedures for existing Rolls-Royce software app
 
 Installed and programmed Opto 22's SNAP-PACs using Opto's Optoscript and Control Strategies. This is equivalent to PLC programming.
 
+<br>
 
+# Skills
 
+Software Development
 
+Software Engineering
 
+Material UI
 
+Bootstrap
+
+VSCode
+
+Visual Studio
+
+Azure DevOps
+
+GitHub
+
+Git
+
+React
+
+C#
+
+.NET
+
+Entity Framework
+
+SQL
+
+T-SQL
+
+PowerShell
+
+RESTful APIs
+
+SharePoint
+
+ASP.NET
+
+Blazor
+
+ArcGIS
+
+ArcMap
+
+ProjectWise
+
+C++
+
+C
+
+FORTRAN
+
+Opto 22
+
+PLC
+
+Optoscript
+
+Control Strategies
+
+RESTful WebServices
+
+Mobile App Development
+
+UML
+
+Agile
+
+Scrum
+
+Kanban
+
+Waterfall
+
+JIRA
+
+Confluence
+
+Microsoft Office
+
+Microsoft Servers
+
+Microsoft SQL Server
+
+Azure
+
+PostgreSQL
+
+MySQL
+
+Oracle
+
+Linux
+
+Ubuntu
+
+Windows Server
+
+Windows
+
+Github Desktop
+
+SonarQube
+
+Jenkins
+
+Docker
+
+Kubernetes
+
+Pinyon Box
+
+One Drive
+
+Google Drive
+
+DBeaver
+
+PLSQL Developer
+
+PL/SQL Oracle
+
+Oracle 19
+
+Remote Desktop Connection
+
+Remote Desktop Protocol
+
+MSTeams
+
+Microsoft Teams
+
+Mermaid UML
 
 
 
