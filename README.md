@@ -87,7 +87,7 @@ Made code compliant to our linter, SonarQube, which involved creating tests usin
 
 <br>
 
-## Software Engineer - .NET & React Full Stack
+## Software Engineer - .NET & React
 Gemini Trust Company - New York, NY
 December 2019 to December 2023
 
@@ -405,6 +405,10 @@ MSTeams
 Microsoft Teams
 
 Mermaid UML
+
+JavaScript
+
+TypeScript
 
 
 
