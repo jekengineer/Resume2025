@@ -151,6 +151,60 @@ Developed and performed testing procedures for existing Rolls-Royce software app
 
 Installed and programmed Opto 22's SNAP-PACs using Opto's Optoscript and Control Strategies. This is equivalent to PLC programming.
 
+
+
+<br>
+<br>
+
+# Education
+
+Bachelor of Science in Electrical Engineering
+
+University of Alabama in Huntsville - Huntsville, AL
+
+August 2008 to May 2015
+
+
+
+
+
+
+
+
+<br>
+<br>
+
+# Awards
+
+MVP - Dynamo Technologies
+
+August 2024
+
+Awarded to Employees that go above and beyond and exceeded expectations in performance reviews.
+<br>
+
+Outstanding Accomplishment - Gemini
+
+April 2023
+Received for pushing in many new features into crypto tracking charts. Such as allowing the uploading of Pine Code directly.
+
+<br>
+
+Recognition of Excellence 2017 - United States Army
+
+February 2017
+
+Monetary award for excellent performance.
+
+
+
+
+
+
+
+
+
+<br>
 <br>
 
 # Skills
