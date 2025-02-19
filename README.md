@@ -8,7 +8,7 @@ I have 10+ years of full-stack software development and software engineering exp
 I am open to any and all roles. 
 I would like to be a Senior Software Engineer or a Software Program Manager.
 My skillset is focused on .NET using C# for middleware and business logic, Entity (T-SQL), and React (JavaScript). 
-I'm an American Citizen and an English native.
+I'm an American Citizen and an English native. I hold a public trust clearance and can pass a background check.
 
 <br>
 
