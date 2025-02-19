@@ -8,7 +8,7 @@ I am open to any and all roles.
 I would like to be a Senior Software Engineer or a Software Program Manager.
 My skillset is focused on .NET using C# for middleware and business logic, Entity (T-SQL) for the back end, and React (JavaScript) for the front end.
 
-My professional work repo is attached to Forestry Service, this is one I use for my project, but most does not show my current work.
+My professional work repo is attached to Forestry Service, you can see images below.
 
 https://github.com/jekengineer/Resume2025
 
