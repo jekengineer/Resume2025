@@ -181,6 +181,7 @@ MVP - Dynamo Technologies
 August 2024
 
 Awarded to Employees that go above and beyond and exceeded expectations in performance reviews.
+
 <br>
 
 Outstanding Accomplishment - Gemini
