@@ -4,9 +4,13 @@ Last Updated: 2025-02-15
 ## A Little About Me
 
 I have 10+ years of full-stack software development and software engineering experience. 
+
 I am open to any and all roles. 
+
 I would like to be a Senior Software Engineer or a Software Program Manager.
+
 My skillset is focused on .NET using C# for middleware and business logic, Entity (T-SQL) for the back end, and React (JavaScript) for the front end.
+
 
 
 ## Current Work
