@@ -49,6 +49,8 @@ I am not professional, but I am in the top 1% of players.
 
 # Positions
 
+<br>
+
 ## Senior Software Engineer - .NET & PowerShell Dev
 Dynamo Technologies - Washington, DC
 December 2023 to Present
@@ -78,6 +80,76 @@ Created a Plant-A-Tree Application. It allows users to plant trees in a virtual 
 Made code compliant to Section 508 Standards, which is accessibility for the disabled.
 
 Made code compliant to our linter, SonarQube, which involved creating tests using MSTest for the suite of legacy applications.
+
+
+
+
+
+<br>
+
+## Software Engineer - .NET & React Full Stack
+Gemini Trust Company - New York, NY
+December 2019 to December 2023
+
+Developed Business to Business Apps using React with Blazor as a plugin for CA and CAR generation.
+
+Implemented Data Services using RESTful APIs in order to communicate between SharePoint Applications, ASP.NET Applications and databases using Stored Procedures.
+
+Supported servers by installing, patching, upgrading, and securing apps, and services for 100+ users.
+
+Deployed servers for hosting several startup websites using the React + C# stack.
+
+Developed and maintained user interfaces for websites and mobile apps using JS, TS, and Kendo.
+
+Moved codebase from Visual SourceSafe to GitHub for better source control.
+
+Completes development tasks within Azure Dev Ops.
+
+Upgraded Bootstrap from 3 to 5 across 100~ different projects.
+
+Wrote SQL Scripts to update databases as well as use SQL Data and SQL Data Compare.
+
+Cut and controlled releases for builds to Certification and Production from Development.
+
+Assisted in standing up SharePoint, SQL Servers, Azure Servers, Ubuntu, and MicroSoft Servers to ensure it works with all front end websites and applications.
+
+Developed solutions in C# and VB to visually change client custom GUIs.
+
+Reviewed and Approved Pull Requests from other dev team members.
+
+
+
+<br>
+
+## Software Engineer - .NET
+Army Corps of Engineers - Huntington, WV
+May 2016 to December 2019
+
+Developed C# ArcGIS ArcMap Add-In for the Modeling, Mapping, and Consequence Production Center that allows users to interface with ProjectWise data sources, retrieve documents, and attach them into GIS shapes, layers, and attribute records.
+
+Developed .NET Application for tracking, reading, and displaying Dam Breach data from proprietary vendor formats. This allowed officers of the Army to visualize important vulnerabilities.
+
+Lead a small team of 3 Junior Engineers in order to deliver on Risk Management Team software tasks.
+
+Developed C++ ProjectWise document management application for USACE's Dam Safety Production Center and Risk Management Center users.
+
+Administered accounts and permissions using Security controls on a Server Manager and SharePoint level for 1000+ users in the USACE organization.
+
+Developed SharePoint sites and applications in collaboration with a SharePoint Architect.
+
+<br>
+
+## Junior Software Engineer
+Rolls-Royce - Huntsville, AL
+May 2015 to May 2016
+
+Wrote subroutines in C/C++ and FORTRAN to interact with Rolls-Royce's Plant Monitoring System.
+
+Created and managed a RESTful webservice and Mobile App in C++ & C# using REST C++ SDK.
+
+Developed and performed testing procedures for existing Rolls-Royce software applications.
+
+Installed and programmed Opto 22's SNAP-PACs using Opto's Optoscript and Control Strategies. This is equivalent to PLC programming.
 
 
 
