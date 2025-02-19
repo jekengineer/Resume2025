@@ -1,6 +1,8 @@
 # James Kennedy's Resume for 2025!
 Last Updated: 2025-02-15
 
+<br>
+
 ## A Little About Me
 
 I have 10+ years of full-stack software development and software engineering experience. 
