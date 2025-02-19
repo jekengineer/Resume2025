@@ -205,6 +205,68 @@ Monetary award for excellent performance.
 
 
 
+
+<br>
+<br>
+
+# Certifications
+
+Certified ArcGIS Developer
+Present
+I am certified to develop ArcGIS programs for interacting with ESRI software.
+
+<br>
+
+Certified ProjectWise Developer
+March 2017 to Present
+I am certified to develop plugins for use with ProjectWise and with other Bentley products.
+
+<br>
+
+Certified SpecsIntact Operator
+March 2017 to Present
+I am certified to CRUD Code and Specs using SpecsIntact for the Army and other Federal Agencies.
+
+<br>
+<br>
+
+
+
+# Affiliations
+
+Mensa
+December 2020 to Present
+High IQ Society
+
+<br>
+<br>
+
+
+
+
+# Extra Informations
+
+Majored in Electrical Engineering
+
+Focus on High Power and Nuclear Power
+
+CanSat - Participated in launching CanSats
+
+IEEE - Member of the Institute of Electrical and Electronics Engineers, contributed to SECON Projects
+
+Charger Chaser - Student Ambassador for UAH
+
+Sigma Nu Fraternity - Organized social campus activities for UAH
+
+
+
+
+
+
+
+
+
+
 <br>
 <br>
 
