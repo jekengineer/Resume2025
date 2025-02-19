@@ -10,6 +10,7 @@ My skillset is focused on .NET using C# for middleware and business logic, Entit
 
 My professional work repo is attached to Forestry Service, this is one I use for my project, but most does not show my current work.
 https://github.com/jekengineer/Resume2025
+
 https://www.linkedin.com/in/james-kennedy-07958229b/
 
 I love coding, programming, and tech in general. 
