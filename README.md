@@ -8,7 +8,7 @@ I am open to any and all roles.
 I would like to be a Senior Software Engineer or a Software Program Manager.
 My skillset is focused on .NET using C# for middleware and business logic, Entity (T-SQL), and React (JavaScript).
 
-
+<br>
 
 ## Current Work
 
@@ -22,6 +22,7 @@ https://www.linkedin.com/in/james-kennedy-07958229b/
 
 ![Project Management](GitHubProjectManagement.png)
 
+<br>
 
 ## I Love My Job
 
@@ -35,14 +36,14 @@ I've fought Oracle and migrated to PostgreSQL.
 I prefer Azure and MSSQL.
 Component libraries are my best friends.
 
-
+<br>
 
 ## RIICHI!
 
 In my spare time I enjoy playing Riichi Mahjong. 
 I am not professional, but I am in the top 1% of players.
 
-
+<br>
 
 # Positions
 
