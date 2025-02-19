@@ -9,9 +9,14 @@ I would like to be a Senior Software Engineer or a Software Program Manager.
 My skillset is focused on .NET using C# for middleware and business logic, Entity (T-SQL) for the back end, and React (JavaScript) for the front end.
 
 My professional work repo is attached to Forestry Service, this is one I use for my project, but most does not show my current work.
+
 https://github.com/jekengineer/Resume2025
 
 https://www.linkedin.com/in/james-kennedy-07958229b/
+
+![Status](GitHubCommitsProfile.png)
+
+![Project Management](GitHubProjectManagement.png)
 
 I love coding, programming, and tech in general. 
 The process of thinking about how to make a great software is enjoyable. 
