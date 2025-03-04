@@ -244,7 +244,7 @@ High IQ Society
 
 
 
-# Extra Informations
+# Extra Information
 
 Majored in Electrical Engineering
 
