@@ -284,7 +284,7 @@ Ajax
 
 jQuery
 
-Entity Framework
+Entity Framework, ORM, Object Relational Mapping
 
 SQL, T-SQL, PL/SQL
 
