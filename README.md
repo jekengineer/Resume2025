@@ -286,7 +286,7 @@ Ajax
 
 jQuery
 
-Entity Framework, ORM, Object Relational Mapping
+Entity Framework, ORM, Object Relational Mapping, NHibernate
 
 SQL, T-SQL, PL/SQL
 
@@ -347,6 +347,8 @@ Microsoft Servers, Windows Servers
 Microsoft SQL Server
 
 Azure, Azure DevOps, AWS
+
+CosmoDB
 
 PostgreSQL, MySQL
 
