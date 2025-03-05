@@ -280,6 +280,8 @@ ASP.NET, Razor, Blazor
 
 React, React Native, React.JS
 
+Angular, Vue
+
 Ajax
 
 jQuery
@@ -344,7 +346,7 @@ Microsoft Servers, Windows Servers
 
 Microsoft SQL Server
 
-Azure
+Azure, Azure DevOps, AWS
 
 PostgreSQL, MySQL
 
