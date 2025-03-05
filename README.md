@@ -296,6 +296,8 @@ JavaScript, TypeScript
 
 Tailwind, Bootstrap, Material UI
 
+CI/CD, Continuous Integration Continuous Delivery
+
 Software Development, Software Engineering
 
 Leadership, Mentorship
@@ -306,7 +308,7 @@ Azure DevOps, GitHub, GitLab, Github Desktop
 
 Git
 
-RESTful APIs
+RESTful APIs, RESTful WebServices
 
 SharePoint
 
@@ -316,9 +318,7 @@ ArcMap
 
 ProjectWise
 
-C++
-
-C
+C, C++, C/C++
 
 FORTRAN
 
@@ -330,11 +330,9 @@ Optoscript
 
 Control Strategies
 
-RESTful WebServices
-
 Mobile App Development
 
-UML
+UML, Plant UML, Mermaid UML
 
 Agile, Scrum, Kanban, Waterfall
 
@@ -368,19 +366,13 @@ Pinyon Box, One Drive, Google Drive
 
 DBeaver, PLSQL Developer
 
-PL/SQL Oracle
-
-Oracle 19
+Oracle 19, PL/SQL Oracle
 
 Remote Desktop Connection, Remote Desktop Protocol
 
-MSTeams
-
-Microsoft Teams
+MSTeams, Microsoft Teams
 
 Slack
-
-Mermaid UML
 
 
 
