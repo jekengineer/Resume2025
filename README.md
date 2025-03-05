@@ -276,13 +276,9 @@ Sigma Nu Fraternity - Organized social campus activities for UAH
 
 C#
 
-ASP.NET
+ASP.NET, Razor, Blazor
 
-Razor
-
-Blazor
-
-React
+React, React Native, React.JS
 
 Ajax
 
@@ -290,39 +286,23 @@ jQuery
 
 Entity Framework
 
-SQL
-
-T-SQL
+SQL, T-SQL, PL/SQL
 
 PowerShell
 
-HTML
+HTML, CSS
 
-CSS
+JavaScript, TypeScript
 
-JavaScript
+Tailwind, Bootstrap, Material UI
 
-TypeScript
+Software Development, Software Engineering
 
-Tailwind
+Leadership, Mentorship
 
-Bootstrap
+Visual Studio, VSCode
 
-Software Development
-
-Software Engineering
-
-Material UI
-
-Bootstrap
-
-VSCode
-
-Visual Studio
-
-Azure DevOps
-
-GitHub
+Azure DevOps, GitHub, GitLab
 
 Git
 
