@@ -302,7 +302,7 @@ Leadership, Mentorship
 
 Visual Studio, VSCode
 
-Azure DevOps, GitHub, GitLab
+Azure DevOps, GitHub, GitLab, Github Desktop
 
 Git
 
@@ -336,29 +336,19 @@ Mobile App Development
 
 UML
 
-Agile
+Agile, Scrum, Kanban, Waterfall
 
-Scrum
-
-Kanban
-
-Waterfall
-
-JIRA
-
-Confluence
+JIRA, Confluence, Atlassian
 
 Microsoft Office
 
-Microsoft Servers
+Microsoft Servers, Windows Servers
 
 Microsoft SQL Server
 
 Azure
 
-PostgreSQL
-
-MySQL
+PostgreSQL, MySQL
 
 Oracle
 
@@ -366,41 +356,29 @@ Linux
 
 Ubuntu
 
-Windows Server
-
 Windows
-
-Github Desktop
 
 SonarQube
 
 Jenkins
 
-Docker
+Docker, Kubernetes
 
-Kubernetes
+Pinyon Box, One Drive, Google Drive
 
-Pinyon Box
-
-One Drive
-
-Google Drive
-
-DBeaver
-
-PLSQL Developer
+DBeaver, PLSQL Developer
 
 PL/SQL Oracle
 
 Oracle 19
 
-Remote Desktop Connection
-
-Remote Desktop Protocol
+Remote Desktop Connection, Remote Desktop Protocol
 
 MSTeams
 
 Microsoft Teams
+
+Slack
 
 Mermaid UML
 
